@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :sunglasses: Software Engineer
+- :sunglasses: What's up!
 
 <!--
 **rakesh-kumar-t/rakesh-kumar-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
