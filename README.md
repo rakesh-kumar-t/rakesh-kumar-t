@@ -12,7 +12,7 @@
 
 - :sunglasses: What's up!
 
-
+<img align="right" alt="GIF" src="https://github.com/rakesh-kumar-t/rakesh-kumar-t/blob/master/code.gif?raw=true" width="500" height="320" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh-kumar-t&label=Profile%20views&color=0e75b6&style=flat" alt="RAKESH" /> </p>
 
 
