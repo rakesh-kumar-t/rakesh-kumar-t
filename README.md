@@ -10,10 +10,10 @@
 - :telescope: Find me here
 
   - <a href="https://twitter.com/rakesh_kumarT">
-    <img align="left" alt="Rakesh Kumar T | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+    <img align="left" alt="Rakesh Kumar T | Twitter" width="22px" src="https://cdn.simpleicons.com/x" />
     </a>
     <a href="https://www.linkedin.com/in/rakeshkumart/">
-      <img align="left" alt="Rakesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+      <img align="left" alt="Rakesh's LinkedIN" width="22px" src="https://cdn.simpleicons.com/linkedin" />
     </a>
 
 <br/>
