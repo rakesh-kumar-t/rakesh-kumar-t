@@ -5,7 +5,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rakesh-kumar-t&label=Profile%20views&color=0e75b6&style=flat" alt="RAKESH" /> </p>
 <img align="right" alt="GIF" src="https://github.com/rakesh-kumar-t/rakesh-kumar-t/blob/main/code.gif?raw=true" width="500" height="320" />
 
-> I'm Rakesh, Working as Software Developer at CitiusTech, Bengaluru
+> I'm Rakesh, Working as Software Developer at WinWire, Bengaluru
 
 - :telescope: Find me here
 
