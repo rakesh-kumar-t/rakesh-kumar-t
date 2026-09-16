@@ -1,32 +1,45 @@
 ### Hi there 👋
 
-- :sunglasses: What's up!
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=rakesh-kumar-t&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rakesh-kumar-t&label=Profile%20views&color=0e75b6&style=flat" alt="RAKESH" /> </p>
-<img align="right" alt="GIF" src="https://github.com/rakesh-kumar-t/rakesh-kumar-t/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="Coding GIF" src="https://github.com/rakesh-kumar-t/rakesh-kumar-t/blob/main/code.gif?raw=true" width="400" />
 
-> I'm Rakesh, Working as Engineer III at Omnicell, Bengaluru
+> I'm Rakesh, working as Engineer III at Omnicell, Bengaluru.
 
-- :telescope: Find me here
+<br/>
 
-  - <a href="https://twitter.com/rakesh_kumarT">
-    <img align="left" alt="Rakesh Kumar T | Twitter" width="22px" src="https://cdn.simpleicons.org/x" />
-    </a>
-    <a href="https://www.linkedin.com/in/rakeshkumart/">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.3.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M512 96L127.9 96C110.3 96 96 110.5 96 128.3L96 511.7C96 529.5 110.3 544 127.9 544L512 544C529.6 544 544 529.5 544 511.7L544 128.3C544 110.5 529.6 96 512 96zM231.4 480L165 480L165 266.2L231.5 266.2L231.5 480L231.4 480zM198.2 160C219.5 160 236.7 177.2 236.7 198.5C236.7 219.8 219.5 237 198.2 237C176.9 237 159.7 219.8 159.7 198.5C159.7 177.2 176.9 160 198.2 160zM480.3 480L413.9 480L413.9 376C413.9 351.2 413.4 319.3 379.4 319.3C344.8 319.3 339.5 346.3 339.5 374.2L339.5 480L273.1 480L273.1 266.2L336.8 266.2L336.8 295.4L337.7 295.4C346.6 278.6 368.3 260.9 400.6 260.9C467.8 260.9 480.3 305.2 480.3 362.8L480.3 480z"/></svg>
-    </a>
+**Connect with me:**
 
-<!--
-**rakesh-kumar-t/rakesh-kumar-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://www.linkedin.com/in/rakeshkumart/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/rakesh_kumarT" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Technologies
+
+<p align="left">
+  <!-- Backend & Languages -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  
+  <!-- Frameworks & Frontend -->
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+
+  <!-- Databases & Streaming -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+</p>
